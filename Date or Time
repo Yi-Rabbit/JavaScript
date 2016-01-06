@@ -1,0 +1,4 @@
+
+var then =new Date(2016,0,1);
+var later =new Date(2016,0,1,06,13,30);
+var now = new Date();
