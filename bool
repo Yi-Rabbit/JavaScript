@@ -1,0 +1,10 @@
+
+//自动转为布尔为false:
+undefined
+null
+0
+-0
+NaN
+""
+
+//其他所有值转为true(包括对象和数组)
